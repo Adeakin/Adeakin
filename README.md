@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 ### 🌱 Currently Learning Software Engineering @ALX   
 - 💻 Languages: JavaScript, Python, C, SQL <br>
 - 🌐 Web Technologies: HTML,
-- 💻 Data Analysis Software Applications: Excel, Python, Tableau
+- 💻 Data Analysis Software Applications: Excel, MYSQL, Tableau
 ### 🥇 I Learning by doing
 * 🏋️ I’m currently working on improving my coding skills <br>
 * 👭 I’m open to collaborate on Software Engineering projects. <br>
