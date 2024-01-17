@@ -9,9 +9,9 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+Welcome+to+my+Github+Profile;My+name+is+Abimbola+Esther+Akinshilo;I+am+a+Data+Analyst.;I+am+passionate+about+programming.;I+am+tech+savvy.;I'm+open+to+new+ideas+on+IT+technology.)](https://git.io/typing-svg)
 
 ### 🌱 Currently Learning Software Engineering @ALX   
-- 💻 Languages: JavaScript, Python, C <br>
+- 💻 Languages: JavaScript, Python, C, SQL <br>
 - 🌐 Web Technologies: HTML,
-- 💻 Data Analysis Software Applications: Excel, Python, Tableau, SQL
+- 💻 Data Analysis Software Applications: Excel, Python, Tableau
 ### 🥇 I Learning by doing
 * 🏋️ I’m currently working on improving my coding skills <br>
 * 👭 I’m open to collaborate on Software Engineering projects. <br>
