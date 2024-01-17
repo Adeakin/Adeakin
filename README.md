@@ -20,5 +20,6 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 * [X](https://twitter.com/EAakinshilo)
 * [Email](mailto:abimbolaakinshilo@gmail.com)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeakin&theme=radical)](https://github.com/Adeakin/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adeakin&theme=radical)](https://git.io/streak-stats)
