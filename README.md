@@ -22,4 +22,4 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeakin&theme=radical)](https://github.com/Adeakin/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Adeakin)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Adeakin&theme=dark)](https://git.io/streak-stats)
