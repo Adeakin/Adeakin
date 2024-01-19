@@ -12,14 +12,20 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 - 💻 Languages: JavaScript, Python, C, SQL <br>
 - 🌐 Web Technologies: HTML,
 - 💻 Data Analysis Software Applications: Excel, MYSQL, Tableau
+
 ### 🥇 I Learning by doing
 * 🏋️ I’m currently working on improving my coding skills <br>
 * 👭 I’m open to collaborate on Software Engineering projects. <br>
-### 📫 Contact
-* [LinkedIn](https://www.linkedin.com/in/abimbola-akinshilo-a47059b9/)
-* [X](https://twitter.com/EAakinshilo)
-* [Email](mailto:abimbolaakinshilo@gmail.com)
 
+## **Connect with me:**
+[![Follow](https://img.shields.io/twitter/follow/EAakinshilo?style=social)]([https://www.twitter.com/thedataprof](https://twitter.com/EAakinshilo))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimbola-akinshilo-adeakin/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](https://www.facebook.com/abimbola.akinlusi1/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/estherakins5/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adeakin&theme=radical)](https://github.com/Adeakin/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Adeakin&theme=dark)](https://git.io/streak-stats)
+ ## Stats.
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeakin&layout=compact&theme=dark&hide_border=false" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adeakin&show_icons=true&locale=en&theme=onedark" alt="Adeakin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adeakin&theme=dark" alt="Adeakin" /></p>
+<br/>
