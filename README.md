@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 * 👭 I’m open to collaborate on Software Engineering projects. <br>
 
 ## **Connect with me:**
-[![Follow](https://img.shields.io/twitter/follow/EAakinshilo?style=social)]([https://www.twitter.com/thedataprof](https://twitter.com/EAakinshilo))
+[![Follow](https://img.shields.io/twitter/follow/EAakinshilo?style=social)]([https://www.twitter.com/EAakinshilo](https://twitter.com/EAakinshilo))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abimbola-akinshilo-adeakin/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](https://www.facebook.com/abimbola.akinlusi1/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/estherakins5/)
