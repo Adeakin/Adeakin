@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 - 🌐 Web Technologies: HTML,
 - 💻 Data Analysis Software Applications: Excel, MYSQL, Tableau
 
-### 🥇 I Learning by doing
+### 🥇 I Learn by doing
 * 🏋️ I’m currently working on improving my coding skills <br>
 * 👭 I’m open to collaborate on Software Engineering projects. <br>
 
