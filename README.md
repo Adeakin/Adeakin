@@ -6,7 +6,7 @@ src="https://img.shields.io/github/followers/adeakin?logo=github&style=for-the-b
 <img align= "right" alt="CodingGir" width="400" src="https://static.tildacdn.com/tild3034-6434-4663-b733-383065653832/Ver3.gif">
 <img align= "center" alt="CodingGirl" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+Welcome+to+my+Github+Profile;My+name+is+Abimbola+Esther+Akinshilo;I+am+an+Analsyst,+an+Urban+Planner.;I+am+passionate+about+analyst+planning+softwares.;I+am+tech+savvy.;I'm+open+to+new+ideas+on+IT+technology.)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hello!+Welcome+to+my+Github+Profile;My+name+is+Abimbola+Esther+Akinshilo;I+am+an+Analsyst,+an+Urban+Planner.;I+am+passionate+about+Planning.;I+am+tech+savvy.;I'm+open+to+new+ideas+on+IT+technology.)](https://git.io/typing-svg)
 
 ### 🌱 Currently Learning Software Engineering @ALX   
 - 💻 Languages: JavaScript, Python, C, SQL <br>
